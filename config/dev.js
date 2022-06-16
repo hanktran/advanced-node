@@ -6,4 +6,6 @@ module.exports = {
     "mongodb+srv://hantran:hantran1510@cluster0.rsvwc.mongodb.net/?retryWrites=true&w=majority",
   cookieKey: "123123123",
   redisUrl: "redis://127.0.0.1:6379",
+  accessKeyId: 'AKIAZN7TSYKUVZTL6E7M',
+  secretAccessKey: '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'
 };
